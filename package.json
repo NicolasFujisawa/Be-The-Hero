@@ -1,0 +1,23 @@
+{
+  "name": "BeTheHero",
+  "version": "1.0.0",
+  "description": "Aplicação em Node.js com React e React Native para frontend web e mobile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasFujisawa/Be-The-Hero.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolasFujisawa/Be-The-Hero/issues"
+  },
+  "homepage": "https://github.com/NicolasFujisawa/Be-The-Hero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
