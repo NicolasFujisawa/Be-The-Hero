@@ -2,5 +2,6 @@
 Aplicação em Node.js com React e React Native para frontend web e mobile
 
 ## Tutorial
-npm install\n
+npm install
+
 node index.js
