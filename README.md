@@ -5,3 +5,5 @@ Aplicação em Node.js com React e React Native para frontend web e mobile
 npm install
 
 npm start
+
+Abra no seu navegador: http://localhost:3333
